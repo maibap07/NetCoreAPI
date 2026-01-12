@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Bài thực hành số 2</title>
+</head>
+<body>
+
+<h1>Nguyễn Hoàng Mai</h1>
+<p>Ngành: Tin học kinh tế</p>
+
+</body>
+</html>
